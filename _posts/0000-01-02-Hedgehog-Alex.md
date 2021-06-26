@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+It would be foolish to expect everything to go well
 Use the left arrow to go back!
